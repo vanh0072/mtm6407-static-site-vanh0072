@@ -3,4 +3,10 @@ layout: home
 title: "My Personal Website"
 ---
 
-<p>Welcome to my personal website!</p>
+Welcome to my website!
+
+I'm so happy you're here.
+
+<img src="{{ '/images/hero_img.png' | relative_url }}" alt="Hero Image" class="img">
+
+
